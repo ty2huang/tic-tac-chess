@@ -1,4 +1,4 @@
-#Tic Tac Chess
+Tic Tac Chess
 
 	Tic Tac Chess is an original game made to combine the elements of the well known games Chess and Tic Tac Toe. The game uses the Tic Tac Toe board, which is a 3 by 3 grid and the Chess pieces instead of x’s and o’s. The purpose of the game is to connect the chess pieces 3 in a row without having the opponent being able to disrupt the sequence in the next move. Each turn, a player can choose to either move a piece or add a piece to the board. When one of these actions are done, the player can not do the other on the same turn.
 
